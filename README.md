@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alihaider21
+- 👋 Hi, I’m Ali Haider
 - 👀 I’m interested in Artificial Intelligence, Data Science and Cloud
 - 🌱 I’m currently learning Data Analysis and Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/ali-haider-2b436b217/
